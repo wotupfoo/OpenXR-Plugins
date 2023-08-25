@@ -12,7 +12,7 @@ Prerequisites:
 
 Customization:
 
-- Find documentation and tutorials on the [wiki](https://github.com/mbucchia/OpenXR-Layer-Template/wiki);
-- Find the sample code from the tutorials in the [example branches](https://github.com/mbucchia/OpenXR-Layer-Template/branches/all?query=examples%2F).
+- Find documentation and tutorials from the original author on his repo [wiki](https://github.com/mbucchia/OpenXR-Layer-Template/wiki);
+- Find the sample code from the tutorials in the [example branches](https://github.com/wotupfoo/OpenXR-Plugins/branches/all?query=examples%2F).
 
 DISCLAIMER: This software is distributed as-is, without any warranties or conditions of any kind. Use at your own risks.
